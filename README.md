@@ -206,7 +206,4 @@ Aspiring Data Analyst | SQL | Python | Power BI
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
----
-
-Do you want me to also create a **short 5-line README** (for quick GitHub view) or keep this long professional one?
 
