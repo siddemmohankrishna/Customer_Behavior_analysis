@@ -107,6 +107,14 @@ Built an interactive dashboard with:
 * Male customers contribute ~68% of total revenue
 * Female customers contribute ~32% of total revenue
 
+# 🖼️ Dashboard Screenshots
+
+## 📌 Overview Dashboard
+
+![Overview Dashboard](https://github.com/siddemmohankrishna/Customer_Behavior_analysis/blob/main/Screenshot%202026-02-16%20175347.png)
+
+---
+
 ### 👥 Customer Segmentation
 
 * Loyal Customers: 80%
